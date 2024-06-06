@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Tatiana ✋</h1>
+<h1 align="center">Hi there, I'm Tatiana </h1>
 
 ### About me:
 - :woman_technologist: I'm a Python backend developer experienced in Python and Django DRF.
 - ✨ Currently looking for a full-time job.
-- 📫 How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tatiana_ssharova)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tatiana_ssharova)
 - 👀 Interested in telegram bots, ai and REST API
 - 🌱 Currently learning FastAPI
   
