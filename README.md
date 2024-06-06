@@ -4,10 +4,9 @@
 ### ABOUT ME
 - :woman_technologist: I'm a Python backend developer experienced in Python and Django DRF.
 - :computer: Currently looking for a full-time job.
-- 📫 How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tatiana_ssharova) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kroxxatt@gmail.com)
+- 📫 How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tatiana_ssharova)
 - 👀 I’m interested in telegram bots, ai and REST API
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning FastAPI
 
 <!---
 TatianaSharova/TatianaSharova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
