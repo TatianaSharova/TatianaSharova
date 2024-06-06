@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Tatiana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm Tatiana ✋</h1>
 
 ### About me:
 - :woman_technologist: I'm a Python backend developer experienced in Python and Django DRF.
