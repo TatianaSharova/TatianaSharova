@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tatiana </h1>
+<h1 align="center">Hi there, I'm Tatiana! </h1>
 
 ### About me:
 - :woman_technologist: I'm a Python backend developer experienced in Python and Django DRF
