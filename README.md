@@ -4,7 +4,7 @@
 - :woman_technologist: I'm a Python backend developer experienced in Django DRF. Currently, I'm diving into FastAPI to broaden my skills in building powerful REST APIs.
 - ✨ I'm looking for a full-time role but also open to interesting projects and collaborations. I’m especially passionate about creating telegram bots and exploring ai.
 - 📫 Feel free to reach out via [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tatiana_ssharova) - i’d love to connect and discuss potential collaborations!
-- 👀 Interested in telegram bots, ai and REST API.
+- 👀 Interested in scalable services, ai and modern web APIs.
 - 🌱 I believe every project brings new opportunities to grow, and I'm always excited to join interesting initiatives.
   
    ---
